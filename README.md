@@ -41,10 +41,7 @@ Expected Output:
 Use Case: Responding concisely to general customer queries.
 
 # Prompt Technique Summary Table:
-Prompt Technique	Purpose	Use Cases	Benefits
-Experiential Perspective Prompt	Provides empathetic, human-like response from a persona	Troubleshooting, setup guidance	Builds empathy, adds personalization and realism
-Comparative Analysis Prompt	Highlights strengths/weaknesses of different approaches	Service quality analysis, model comparison	Reveals value of AI vs rule-based approaches
-Prompt Size Limitations	Forces concise, focused responses under constraints	FAQs, general inquiries	Promotes clarity, ideal for mobile interfaces or short replies
+
 
 # Conclusion:
 This experiment demonstrated that using diverse prompting methods greatly enhances the effectiveness of a customer service chatbot. Experiential prompts allowed for more human-like support interactions. Comparative prompts revealed the adaptability of machine-learning models over rule-based bots. Prompt size limitations helped deliver concise and effective responses in constrained environments. Collectively, these techniques empower MediGuide to offer intelligent, empathetic, and streamlined assistance to its users.

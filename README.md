@@ -42,6 +42,7 @@ Use Case: Responding concisely to general customer queries.
 
 # Prompt Technique Summary Table:
 
+![image alt](https://github.com/Ajay-Joshua-M/Prompt-Engineering-4.1/blob/dad31e6d787f89de562e2d29f8d224385d751b8b/Screenshot%202025-05-26%20075100.png)
 
 # Conclusion:
 This experiment demonstrated that using diverse prompting methods greatly enhances the effectiveness of a customer service chatbot. Experiential prompts allowed for more human-like support interactions. Comparative prompts revealed the adaptability of machine-learning models over rule-based bots. Prompt size limitations helped deliver concise and effective responses in constrained environments. Collectively, these techniques empower MediGuide to offer intelligent, empathetic, and streamlined assistance to its users.
